@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+virtualenv
+tensorflow
+pillow
